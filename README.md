@@ -28,6 +28,6 @@ Félicitations !  [...]
 
 - Un fichier au format TXT ou PDF contenant les liens vers :
 votre code source sur [GitHub](https://github.com/Exeys/react-modal-custom-component) de la bibliothèque ReactJS converti depuis le plugin jQuery sélectionné (un seul plugin doit être converti) ;
-votre projet complet sur [GitHub](https://github.com/Exeys/AdrienJohannin_14_02112022) ;
+votre projet complet sur [GitHub](https://github.com/Exeys/14_02112022) ;
 la bibliothèque React convertie publiée sur [npm](https://www.npmjs.com/package/react-modal-custom-component) (ou GitHub Packages) ;
 - Un rapport de performance LightHouse au format PDF de HRnet fonctionnant avant et après la conversion de la bibliothèque. 
