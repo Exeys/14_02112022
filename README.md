@@ -1,4 +1,4 @@
-🙍‍♂️ Adrien Johannin - Projet 14 (Faites passer une librairie jQuery vers React)
+🙍‍♂️ - Projet 14 (Faites passer une librairie jQuery vers React)
 
 ![image.png](https://user.oc-static.com/upload/2020/08/14/15974125765772_image2.jpg)
 
